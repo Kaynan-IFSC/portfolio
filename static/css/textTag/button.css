@@ -232,8 +232,6 @@ button.button-megazord {
   text-align: center;
 }
 
-
-
 .button-separator {
   display: grid;
   grid-template-rows: 96.5% 20%;
