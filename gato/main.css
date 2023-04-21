@@ -1,0 +1,97 @@
+:root {
+  scroll-behavior: smooth;
+}
+
+::selection {
+  color: #fff;
+  background-color: #cccc;
+}
+
+body {
+  box-sizing: border-box;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f5f5f5;
+  color: #333;
+  margin: 0;
+}
+
+.container {
+  max-width: 960px;
+  margin: auto;
+}
+
+nav {
+  background-color: #BA8F87;
+  padding: 10px;
+}
+
+ul {
+  display: flex;
+  justify-content: center;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid transparent;
+  border-radius: 5px;
+  margin: 0 10px;
+}
+
+li:hover {
+  background-color: #BA8F87;
+  border-color: #fff;
+}
+
+a {
+  display: inline-block;
+  padding: 10px;
+  color: #fff;
+  text-decoration: none;
+}
+
+
+h1 {
+  font-size: 36px;
+  margin-top: 0;
+}
+
+.card {
+  padding: 20px;
+  margin: 20px;
+  background-color: #fff;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+
+
+.spinner {
+  float: left;
+  width: 150px;
+  height: 150px;
+  margin-right: 20px;
+
+}
+
+.text {
+  line-height: 25px;
+}
+
+.clear {
+  clear: both;
+}
+
+
+.spinner:hover {
+  animation: spinner 0.5s linear infinite;
+}
+
+@keyframes spinner {
+  to {
+    transform: rotate(1080deg);
+  }
+}

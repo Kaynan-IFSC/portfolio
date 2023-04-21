@@ -1,0 +1,160 @@
+.bg-selection-yellow ::selection {
+  background-color: var(--yellow);
+}
+
+.bg-selection-white ::selection {
+  background-color: var(--white);
+}
+
+.bg-selection-white-pale ::selection {
+  background-color: var(--white-pale);
+}
+
+.bg-selection-white-vibrant ::selection {
+  background-color: var(--white-vibrant);
+}
+
+.bg-selection-white-1 ::selection {
+  background-color: var(--white-shade-1);
+}
+
+.bg-selection-gray ::selection {
+  background-color: var(--gray);
+}
+
+.bg-selection-gray-1 ::selection {
+  background-color: var(--gray-shade-1);
+}
+
+.bg-selection-gray-2 ::selection {
+  background-color: var(--gray-shade-2);
+}
+
+.bg-selection-gray-3 ::selection {
+  background-color: var(--gray-shade-3);
+}
+
+.bg-selection-black ::selection {
+  background-color: var(--black);
+}
+
+.bg-selection-black-pale ::selection {
+  background-color: var(--black-pale);
+}
+
+.bg-selection-black-vibrant ::selection {
+  background-color: var(--black-vibrant);
+}
+
+.bg-selection-black-1 ::selection {
+  background-color: var(--black-shade-1);
+}
+
+.bg-selection-black-2 ::selection {
+  background-color: var(--black-shade-2);
+}
+
+.bg-selection-black-3 ::selection {
+  background-color: var(--black-shade-3);
+}
+
+.bg-selection-black-4 ::selection {
+  background-color: var(--black-shade-4);
+}
+
+.bg-selection-black-5 ::selection {
+  background-color: var(--black-shade-5);
+}
+
+.bg-selection-black-6 ::selection {
+  background-color: var(--black-shade-6);
+}
+
+.bg-selection-black-7 ::selection {
+  background-color: var(--black-shade-7);
+}
+
+.bg-selection-red ::selection {
+  background-color: var(--red);
+}
+
+.bg-selection-red-pale ::selection {
+  background-color: var(--red-pale);
+}
+
+.bg-selection-red-orange ::selection {
+  background-color: var(--red-orange);
+}
+
+.bg-selection-orange ::selection {
+  background-color: var(--orange);
+}
+
+.bg-selection-orange-vibrant ::selection {
+  background-color: var(--orange-vibrant);
+}
+
+.bg-selection-green ::selection {
+  background-color: var(--green);
+}
+
+.bg-selection-green-pale ::selection {
+  background-color: var(--green-pale);
+}
+
+.bg-selection-green-light ::selection {
+  background-color: var(--green-light);
+}
+
+.bg-selection-green-rich ::selection {
+  background-color: var(--green-rich);
+}
+
+.bg-selection-green-1 ::selection {
+  background-color: var(--green-shade-1);
+}
+
+.bg-selection-green-2 ::selection {
+  background-color: var(--green-shade-2);
+}
+
+.bg-selection-green-3 ::selection {
+  background-color: var(--green-shade-3);
+}
+
+.bg-selection-purple ::selection {
+  background-color: var(--purple);
+}
+
+.bg-selection-purple-pale ::selection {
+  background-color: var(--purple-pale);
+}
+
+.bg-selection-purple-dead ::selection {
+  background-color: var(--purple-dead);
+}
+
+.bg-selection-purple-1 ::selection {
+  background-color: var(--purple-shade-1);
+}
+
+.bg-selection-purple-2 ::selection {
+  background-color: var(--purple-shade-2);
+}
+
+
+.bg-selection-blue ::selection {
+  background-color: var(--blue);
+}
+
+.bg-selection-blue-light ::selection {
+  background-color: var(--blue-light);
+}
+
+.bg-selection-blue-light-pale ::selection {
+  background-color: var(--blue-light-pale);
+}
+
+.bg-selection-blue-rich ::selection {
+  background-color: var(--blue-rich);
+}

@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="main.css">
+  <title>Form</title>
+</head>
+
+<body>
+  <div class="container">
+
+    <form action="#" method="get">
+      <fieldset>
+        <legend>Personal Information</legend>
+
+        <div>
+          <label for="name">Name</label>
+          <input id="name" type="text" name="name" placeholder="name">
+        </div>
+
+        <div>
+          <label for="lastname">Last Name</label>
+          <input id="lastname" type="text" name="lastname" placeholder="lastname">
+        </div>
+
+        <div>
+          <label for="password">Password</label>
+          <input id="password" type="password" name="password" placeholder="password">
+        </div>
+
+        <div>
+          <label for="birth">Date of Birth</label>
+          <input id="birth" type="date" name="birth" placeholder="birth">
+        </div>
+
+      </fieldset>
+
+      <fieldset>
+        <legend>Contact Information</legend>
+
+        <div>
+          <label for="email">Email</label>
+          <input id="email" type="email" name="email" placeholder="Email">
+        </div>
+
+        <div>
+          <label for="number">Number</label>
+          <input id="number" type="tel" name="number" placeholder="number" pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}">
+        </div>
+
+      </fieldset>
+
+
+      <fieldset>
+        <legend>General Data</legend>
+
+        <div class="experience">
+          <h3>Experience</h3>
+          <div>
+            <input type="radio" id="none" name="experience" value="none">
+            <label class="haha" for="none">None</label>
+          </div>
+
+          <div>
+            <input type="radio" id="junior" name="experience" value="junior">
+            <label for="junior">Junior</label>
+          </div>
+
+          <div>
+            <input type="radio" id="pleno" name="experience" value="pleno">
+            <label for="pleno">Pleno</label>
+          </div>
+
+          <div>
+            <input type="radio" id="senior" name="experience" value="senior">
+            <label for="senior">Senior</label>
+          </div>
+        </div>
+
+        <div>
+          <input type="checkbox" id="html" name="knowledge">
+          <label for="html">HTML</label>
+        </div>
+
+        <div>
+          <input type="checkbox" id="css" name="knowledge">
+          <label for="css">CSS</label>
+        </div>
+
+        <div>
+          <input type="checkbox" id="c" name="knowledge">
+          <label for="c">C</label>
+        </div>
+
+        <div>
+          <input type="checkbox" id="c#" name="knowledge">
+          <label for="c#">C#</label>
+        </div>
+
+        <div>
+          <input type="checkbox" id="webalgo" name="knowledge">
+          <label for="webalgo">Webalgo</label>
+        </div>
+
+        <div>
+          <input type="checkbox" id="python" name="knowledge">
+          <label for="python">python</label>
+        </div>
+
+        <div>
+          <input type="checkbox" id="java" name="knowledge">
+          <label for="java">Java</label>
+        </div>
+
+        <div>
+          <input type="checkbox" id="javascript" name="knowledge">
+          <label for="javascript">JavaScript</label>
+        </div>
+
+        <div>
+          <input type="checkbox" id="php" name="knowledge">
+          <label for="php">PHP</label>
+        </div>
+
+        <div>
+          <input type="checkbox" id="cobol" name="knowledge">
+          <label for="cobol">COBOL</label>
+        </div>
+
+        <div>
+          <input type="checkbox" id="typescript" name="knowledge">
+          <label for="typescript">Typescript</label>
+        </div>
+
+        <div>
+          <input type="checkbox" id="pascal" name="knowledge">
+          <label for="pascal">Pascal</label>
+        </div>
+
+        <div>
+          <input type="checkbox" id="nodejs" name="knowledge">
+          <label for="nodejs">Nodejs</label>
+        </div>
+
+        <div>
+          <input type="checkbox" id="react" name="knowledge">
+          <label for="react">React</label>
+        </div>
+
+        <div>
+          <input type="checkbox" id="reactivenative" name="knowledge">
+          <label for="reactnative">React Native</label>
+        </div>
+
+        <div>
+          <input type="checkbox" id="kotlin" name="knowledge">
+          <label for="kotlin">Kotlin</label>
+        </div>
+
+        <div>
+          <h2>Describe other knowledge</h2>
+          <textarea class="common-field" name="etc" id="etc" placeholder="I know..."></textarea>
+        </div>
+
+        <div>
+          <h2>Desired job position</h2>
+          <textarea class="common-field" name="job-interest" id="job-interest" placeholder="Postition.."></textarea>
+        </div>
+        <div>
+          <label for="salary-claim">Salary Claim</label>
+          <input id="salary-claim" type="text" name="salary-claim" placeholder="Salary Clam">
+        </div>
+      </fieldset>
+      <div class="submit-area">
+        <h2>Terms of Use:</h2>
+        <textarea class="common-field" id="terms"
+          readonly>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed commodo ultricies nisl, quis aliquet ipsum sagittis nec. Sed vel nibh in velit tristique mollis.</textarea>
+        <div class="accept">
+          <input class="checkcept" type="checkbox" id="accept" required>
+          <label for="accept">I accept everything mentioned above</label>
+        </div>
+        <div>
+          <button type="submit">Submit</button>
+        </div>
+      </div>
+
+    </form>
+  </div>
+</body>
+
+</html>

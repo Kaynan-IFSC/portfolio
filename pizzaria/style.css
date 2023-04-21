@@ -1,0 +1,172 @@
+:root {
+    scroll-behavior: smooth;
+    --salmon: #ffa4a4;
+    --salmonela: #faabab;
+    --salmonelanela: #ffbecd;
+    --salmonelanelanela: rgb(241, 195, 195);
+    --sangue: #ff0000;
+    --sanguedaltonico: #dd55ff;
+}
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: var(--salmon);
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 90%;
+    max-width: 1200px;
+    margin: auto;
+    background-color: var(--salmonelanelanela);
+    min-height: 100vh;
+    line-height: 2em;
+}
+
+header,
+section,
+nav {
+    border-bottom: 7px solid black;
+    padding: 10px 50px;
+    background-color: white;
+}
+
+section {
+    min-height: 50vh;
+}
+
+header {
+    text-align: center;
+    background-color: var(--salmonela);
+}
+
+table {
+    width: 100%;
+}
+
+table tr:nth-child(4) {
+    display: none;
+}
+
+table tr:first-child {
+    font-size: 150%;
+    background-color: var(--sangue);
+}
+
+nav {
+    text-align: center;
+    background-color: white;
+}
+
+nav div {
+    display: inline-block;
+    font-size: 30px;
+}
+
+nav div a {
+    display: inline-block;
+    padding: 30px;
+}
+
+nav div:hover {
+    background-color: rgb(61, 61, 61);
+}
+
+nav div:hover a {
+
+    color: rgb(221, 220, 220);
+}
+
+a:any-link {
+    color: rgb(87, 36, 36);
+    text-decoration: none;
+}
+
+nav div:hover a:hover {
+    color: rgb(150, 235, 206);
+}
+
+main section:first-child {
+    background-color: var(--salmonelanela);
+}
+
+#produtos {
+    color: crimson;
+}
+
+#sobre {
+    color: #5e5656;
+}
+
+#endereco {
+    color: rgb(234, 152, 250);
+    ;
+}
+
+main section:nth-child(2) {
+    background-color: rgb(189, 238, 187)
+}
+
+main section:last-child {
+    background-color: bisque;
+}
+
+tr:not(:nth-child(1)) td:nth-child(2)::before {
+    content: 'RS';
+}
+
+a[href*='http'] {
+    background-color: rgb(100, 100, 95);
+    color: rgb(253, 247, 247);
+}
+
+address p:first-child::before {
+    content: 'Rua ';
+}
+
+address p:nth-child(2)::before {
+    content: 'Bairro ';
+}
+
+address p:nth-child(3)::after {
+    content: ' Santa Catarina';
+}
+
+tr:not(:first-child):hover {
+    color: #ff0000;
+    background-color: #5e5656;
+}
+
+img:hover {
+    transition: 3s;
+    filter: grayscale(80%);
+}
+
+tr:nth-child(3n) {
+    background-color: gray;
+}
+
+/*
+* 
+Para esta atividade, você não deve alterar absolutamente nada o arquivo HTML.
+
+1 - formate os links como achar mais apropriado em seus estados (link, visited, hover, active)
+2 - os links devem estar lado a lado (display:inline ou inline-block)
+3 - a pizza do cheff está em falta, esconda esta linha da tabela (display:none)
+4 - faça a tabela ser listrada com cores diferentes
+5 - a primeira linha da tabela (cabeçalho) deve ser com uma cor destaque
+6 - cada seção deve ter uma cor de fundod diferente
+7 - Títulos devem possui cores diferentes em cada seção. No entanto, os parágrafos das seções devem ser de cores iguais.
+8 - adicione "R$" nos preços das pizzas
+9 - links externos devem possuir uma cor ligeiramente diferente (começa com http)
+10 - adicione "Rua" antes do nome da rua "Maria Aparecida Barbosa"
+11 - adicione "bairro antes de "Campo Duna"
+12 - adicione "Santa Catarina" após o nome da cidade (Garopaba)
+13 - ao passar o cursor sobre cada linha da tabela, ela deve ser "iluminada" com outra cor (menos o cabeçalho). 
+	 Dica: combinação de pseudo classes
+14 - o texto do endereço deve ser centralizado
+15 - Desenvolva 3 exemplos de uso de pseudo-classes que não foram demonstradas pelo professor
+16 - Desenvolva 2 exemplos de pseudo-elementos que não foram demonstradas pelo professor
+*/

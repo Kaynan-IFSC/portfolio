@@ -1,0 +1,160 @@
+.selection-yellow ::selection {
+  color: var(--yellow);
+}
+
+.selection-white ::selection {
+  color: var(--white);
+}
+
+.selection-white-pale ::selection {
+  color: var(--white-pale);
+}
+
+.selection-white-vibrant ::selection {
+  color: var(--white-vibrant);
+}
+
+.selection-white-1 ::selection {
+  color: var(--white-shade-1);
+}
+
+.selection-gray ::selection {
+  color: var(--gray);
+}
+
+.selection-gray-1 ::selection {
+  color: var(--gray-shade-1);
+}
+
+.selection-gray-2 ::selection {
+  color: var(--gray-shade-2);
+}
+
+.selection-gray-3 ::selection {
+  color: var(--gray-shade-3);
+}
+
+.selection-black ::selection {
+  color: var(--black);
+}
+
+.selection-black-pale ::selection {
+  color: var(--black-pale);
+}
+
+.selection-black-vibrant ::selection {
+  color: var(--black-vibrant);
+}
+
+.selection-black-1 ::selection {
+  color: var(--black-shade-1);
+}
+
+.selection-black-2 ::selection {
+  color: var(--black-shade-2);
+}
+
+.selection-black-3 ::selection {
+  color: var(--black-shade-3);
+}
+
+.selection-black-4 ::selection {
+  color: var(--black-shade-4);
+}
+
+.selection-black-5 ::selection {
+  color: var(--black-shade-5);
+}
+
+.selection-black-6 ::selection {
+  color: var(--black-shade-6);
+}
+
+.selection-black-7 ::selection {
+  color: var(--black-shade-7);
+}
+
+.selection-red ::selection {
+  color: var(--red);
+}
+
+.selection-red-pale ::selection {
+  color: var(--red-pale);
+}
+
+.selection-red-orange ::selection {
+  color: var(--red-orange);
+}
+
+.selection-orange ::selection {
+  color: var(--orange);
+}
+
+.selection-orange-vibrant ::selection {
+  color: var(--orange-vibrant);
+}
+
+.selection-green ::selection {
+  color: var(--green);
+}
+
+.selection-green-pale ::selection {
+  color: var(--green-pale);
+}
+
+.selection-green-light ::selection {
+  color: var(--green-light);
+}
+
+.selection-green-rich ::selection {
+  color: var(--green-rich);
+}
+
+.selection-green-1 ::selection {
+  color: var(--green-shade-1);
+}
+
+.selection-green-2 ::selection {
+  color: var(--green-shade-2);
+}
+
+.selection-green-3 ::selection {
+  color: var(--green-shade-3);
+}
+
+.selection-purple ::selection {
+  color: var(--purple);
+}
+
+.selection-purple-pale ::selection {
+  color: var(--purple-pale);
+}
+
+.selection-purple-dead ::selection {
+  color: var(--purple-dead);
+}
+
+.selection-purple-1 ::selection {
+  color: var(--purple-shade-1);
+}
+
+.selection-purple-2 ::selection {
+  color: var(--purple-shade-2);
+}
+
+
+.selection-blue ::selection {
+  color: var(--blue);
+}
+
+.selection-blue-light ::selection {
+  color: var(--blue-light);
+}
+
+.selection-blue-light-pale ::selection {
+  color: var(--blue-light-pale);
+}
+
+.selection-blue-rich ::selection {
+  color: var(--blue-rich);
+}

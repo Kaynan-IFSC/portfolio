@@ -1,0 +1,365 @@
+.yellow {
+  color: var(--yellow);
+}
+
+.white {
+  color: var(--white);
+}
+
+.white-pale {
+  color: var(--white-pale);
+}
+
+.white-vibrant {
+  color: var(--white-vibrant);
+}
+
+.white-1 {
+  color: var(--white-shade-1);
+}
+
+.gray {
+  color: var(--gray);
+}
+
+.gray-1 {
+  color: var(--gray-shade-1);
+}
+
+.gray-2 {
+  color: var(--gray-shade-2);
+}
+
+.gray-3 {
+  color: var(--gray-shade-3);
+}
+
+.black {
+  color: var(--black);
+}
+
+.black-pale {
+  color: var(--black-pale);
+}
+
+.black-vibrant {
+  color: var(--black-vibrant);
+}
+
+.black-1 {
+  color: var(--black-shade-1);
+}
+
+.black-2 {
+  color: var(--black-shade-2);
+}
+
+.black-3 {
+  color: var(--black-shade-3);
+}
+
+.black-4 {
+  color: var(--black-shade-4);
+}
+
+.black-5 {
+  color: var(--black-shade-5);
+}
+
+.black-6 {
+  color: var(--black-shade-6);
+}
+
+.black-7 {
+  color: var(--black-shade-7);
+}
+
+.red {
+  color: var(--red);
+}
+
+.red-pale {
+  color: var(--red-pale);
+}
+
+.red-orange {
+  color: var(--red-orange);
+}
+
+.orange {
+  color: var(--orange);
+}
+
+.orange-vibrant {
+  color: var(--orange-vibrant);
+}
+
+.green {
+  color: var(--green);
+}
+
+.green-pale {
+  color: var(--green-pale);
+}
+
+.green-light {
+  color: var(--green-light);
+}
+
+.green-rich {
+  color: var(--green-rich);
+}
+
+.green-1 {
+  color: var(--green-shade-1);
+}
+
+.green-2 {
+  color: var(--green-shade-2);
+}
+
+.green-3 {
+  color: var(--green-shade-3);
+}
+
+.purple {
+  color: var(--purple);
+}
+
+.purple-pale {
+  color: var(--purple-pale);
+}
+
+.purple-dead {
+  color: var(--purple-dead);
+}
+
+.purple-1 {
+  color: var(--purple-shade-1);
+}
+
+.purple-2 {
+  color: var(--purple-shade-2);
+}
+
+
+.blue {
+  color: var(--blue);
+}
+
+.blue-light {
+  color: var(--blue-light);
+}
+
+.blue-light-pale {
+  color: var(--blue-light-pale);
+}
+
+.blue-rich {
+  color: var(--blue-rich);
+}
+
+.yellow-active:hover,
+.yellow-active:active {
+  color: var(--yellow);
+}
+
+.white-active:hover,
+.white-active:active {
+  color: var(--white);
+}
+
+.black-active:hover,
+.black-active:active {
+  color: var(--black);
+}
+
+.black-pale-active:hover,
+.black-pale-active:active {
+  color: var(--black-pale);
+}
+
+.black-vibrant-active:hover,
+.black-vibrant-active:active {
+  color: var(--black-vibrant);
+}
+
+.black-1-active:hover,
+.black-1-active:active {
+  color: var(--black-shade-1);
+}
+
+.black-2:hover,
+.black-2:active {
+  color: var(--black-shade-2);
+}
+
+.black-3:hover,
+.black-3:active {
+  color: var(--black-shade-3);
+}
+
+.black-4:hover,
+.black-4:active {
+  color: var(--black-shade-4);
+}
+
+.black-5:hover,
+.black-5:active {
+  color: var(--black-shade-5);
+}
+
+.black-6:hover,
+.black-6:active {
+  color: var(--black-shade-6);
+}
+
+.black-7:hover,
+.black-7:active {
+  color: var(--black-shade-7);
+}
+
+.blue-active:hover,
+.blue-active:active {
+  color: var(--blue);
+}
+
+.blue-light-active:hover,
+.blue-light-active:active {
+  color: var(--blue-light);
+}
+
+.blue-light-pale-active:hover,
+.blue-light-pale-active:active {
+  color: var(--blue-light-pale);
+}
+
+.blue-rich-active:hover,
+.blue-rich-active:active {
+  color: var(--blue-rich);
+}
+
+.gray-active:hover,
+.gray-active:active {
+  color: var(--gray);
+}
+
+.gray-1-active:hover,
+.gray-1-active:active {
+  color: var(--gray-shade-1);
+}
+
+.gray-2-active:hover,
+.gray-2-active:active {
+  color: var(--gray-shade-2);
+}
+
+.gray-3-active:hover,
+.gray-3-active:active {
+  color: var(--gray-shade-3);
+}
+
+.green-active:hover,
+.green-active:active {
+  color: var(--green);
+}
+
+.green-light-active:hover,
+.green-light-active:active {
+  color: var(--green-light);
+}
+
+.green-pale-active:hover,
+.green-pale-active:active {
+  color: var(--green-pale);
+}
+
+.green-rich-active:hover,
+.green-rich-active:active {
+  color: var(--green-rich);
+}
+
+.green-1-active:hover,
+.green-1-active:active {
+  color: var(--green-shade-1);
+}
+
+.green-2-active:hover,
+.green-2-active:active {
+  color: var(--green-shade-2);
+}
+
+.green-3-active:hover,
+.green-3-active:active {
+  color: var(--green-shade-3);
+}
+
+.orange-active:hover,
+.orange-active:active {
+  color: var(--orange);
+}
+
+.orange-vibrant-active:hover,
+.orange-vibrant-active:active {
+  color: var(--orange-vibrant);
+}
+
+.purple-active:hover,
+.purple-active:active {
+  color: var(--purple);
+}
+
+.purple-pale-active:hover,
+.purple-pale-active:active {
+  color: var(--purple-pale);
+}
+
+.purple-dead-active:hover,
+.purple-dead-active:active {
+  color: var(--purple-dead);
+}
+
+.purple-1-active:hover,
+.purple-1-active:active {
+  color: var(--purple-shade-1);
+}
+
+.purple-2:hover,
+.purple-2:active {
+  color: var(--purple-shade-2);
+}
+
+.red-active:hover,
+.red-active:active {
+  color: var(--red);
+}
+
+.red-pale-active:hover,
+.red-pale-active:active {
+  color: var(--red-pale);
+}
+
+.red-orange-active:hover,
+.red-orange-active:active {
+  color: var(--red-orange);
+}
+
+.white-active:hover,
+.white-active:active {
+  color: var(--white);
+}
+
+.white-pale-active:hover,
+.white-pale-active:active {
+  color: var(--white-pale);
+}
+
+.white-vibrant-active:hover,
+.white-vibrant-active:active {
+  color: var(--white-vibrant);
+}
+
+.white-1-active:hover,
+.white-1-active:active {
+  color: var(--white-shade-1);
+}

@@ -1,0 +1,365 @@
+.border-yellow {
+  border-color: var(--yellow);
+}
+
+.border-white {
+  border-color: var(--white);
+}
+
+.border-white-pale {
+  border-color: var(--white-pale);
+}
+
+.border-white-vibrant {
+  border-color: var(--white-vibrant);
+}
+
+.border-white-1 {
+  border-color: var(--white-shade-1);
+}
+
+.border-gray {
+  border-color: var(--gray);
+}
+
+.border-gray-1 {
+  border-color: var(--gray-shade-1);
+}
+
+.border-gray-2 {
+  border-color: var(--gray-shade-2);
+}
+
+.border-gray-3 {
+  border-color: var(--gray-shade-3);
+}
+
+.border-black {
+  border-color: var(--black);
+}
+
+.border-black-pale {
+  border-color: var(--black-pale);
+}
+
+.border-black-vibrant {
+  border-color: var(--black-vibrant);
+}
+
+.border-black-1 {
+  border-color: var(--black-shade-1);
+}
+
+.border-black-2 {
+  border-color: var(--black-shade-2);
+}
+
+.border-black-3 {
+  border-color: var(--black-shade-3);
+}
+
+.border-black-4 {
+  border-color: var(--black-shade-4);
+}
+
+.border-black-5 {
+  border-color: var(--black-shade-5);
+}
+
+.border-black-6 {
+  border-color: var(--black-shade-6);
+}
+
+.border-black-7 {
+  border-color: var(--black-shade-7);
+}
+
+.border-red {
+  border-color: var(--red);
+}
+
+.border-red-pale {
+  border-color: var(--red-pale);
+}
+
+.border-red-orange {
+  border-color: var(--red-orange);
+}
+
+.border-orange {
+  border-color: var(--orange);
+}
+
+.border-orange-vibrant {
+  border-color: var(--orange-vibrant);
+}
+
+.border-green {
+  border-color: var(--green);
+}
+
+.border-green-pale {
+  border-color: var(--green-pale);
+}
+
+.border-green-light {
+  border-color: var(--green-light);
+}
+
+.border-green-rich {
+  border-color: var(--green-rich);
+}
+
+.border-green-1 {
+  border-color: var(--green-shade-1);
+}
+
+.border-green-2 {
+  border-color: var(--green-shade-2);
+}
+
+.border-green-3 {
+  border-color: var(--green-shade-3);
+}
+
+.border-purple {
+  border-color: var(--purple);
+}
+
+.border-purple-pale {
+  border-color: var(--purple-pale);
+}
+
+.border-purple-dead {
+  border-color: var(--purple-dead);
+}
+
+.border-purple-1 {
+  border-color: var(--purple-shade-1);
+}
+
+.border-purple-2 {
+  border-color: var(--purple-shade-2);
+}
+
+
+.border-blue {
+  border-color: var(--blue);
+}
+
+.border-blue-light {
+  border-color: var(--blue-light);
+}
+
+.border-blue-light-pale {
+  border-color: var(--blue-light-pale);
+}
+
+.border-blue-rich {
+  border-color: var(--blue-rich);
+}
+
+.border-yellow-active:hover,
+.border-yellow-active:active {
+  border-color: var(--yellow);
+}
+
+.border-white-active:hover,
+.border-white-active:active {
+  border-color: var(--white);
+}
+
+.border-black-active:hover,
+.border-black-active:active {
+  border-color: var(--black);
+}
+
+.border-black-pale-active:hover,
+.border-black-pale-active:active {
+  border-color: var(--black-pale);
+}
+
+.border-black-vibrant-active:hover,
+.border-black-vibrant-active:active {
+  border-color: var(--black-vibrant);
+}
+
+.border-black-1-active:hover,
+.border-black-1-active:active {
+  border-color: var(--black-shade-1);
+}
+
+.border-black-2-active:hover,
+.border-black-2-active:active {
+  border-color: var(--black-shade-2);
+}
+
+.border-black-3-active:hover,
+.border-black-3-active:active {
+  border-color: var(--black-shade-3);
+}
+
+.border-black-4-active:hover,
+.border-black-4-active:active {
+  border-color: var(--black-shade-4);
+}
+
+.border-black-5-active:hover,
+.border-black-5-active:active {
+  border-color: var(--black-shade-5);
+}
+
+.border-black-6-active:hover,
+.border-black-6-active:active {
+  border-color: var(--black-shade-6);
+}
+
+.border-black-7-active:hover,
+.border-black-7-active:active {
+  border-color: var(--black-shade-7);
+}
+
+.border-blue-active:hover,
+.border-blue-active:active {
+  border-color: var(--blue);
+}
+
+.border-blue-light-active:hover,
+.border-blue-light-active:active {
+  border-color: var(--blue-light);
+}
+
+.border-blue-light-pale-active:hover,
+.border-blue-light-pale-active:active {
+  border-color: var(--blue-light-pale);
+}
+
+.border-blue-rich-active:hover,
+.border-blue-rich-active:active {
+  border-color: var(--blue-rich);
+}
+
+.border-gray-active:hover,
+.border-gray-active:active {
+  border-color: var(--gray);
+}
+
+.border-gray-1-active:hover,
+.border-gray-1-active:active {
+  border-color: var(--gray-shade-1);
+}
+
+.border-gray-2-active:hover,
+.border-gray-2-active:active {
+  border-color: var(--gray-shade-2);
+}
+
+.border-gray-3-active:hover,
+.border-gray-3-active:active {
+  border-color: var(--gray-shade-3);
+}
+
+.border-green-active:hover,
+.border-green-active:active {
+  border-color: var(--green);
+}
+
+.border-green-light-active:hover,
+.border-green-light-active:active {
+  border-color: var(--green-light);
+}
+
+.border-green-pale-active:hover,
+.border-green-pale-active:active {
+  border-color: var(--green-pale);
+}
+
+.border-green-rich-active:hover,
+.border-green-rich-active:active {
+  border-color: var(--green-rich);
+}
+
+.border-green-1-active:hover,
+.border-green-1-active:active {
+  border-color: var(--green-shade-1);
+}
+
+.border-green-2-active:hover,
+.border-green-2-active:active {
+  border-color: var(--green-shade-2);
+}
+
+.border-green-3-active:hover,
+.border-green-3-active:active {
+  border-color: var(--green-shade-3);
+}
+
+.border-orange-active:hover,
+.border-orange-active:active {
+  border-color: var(--orange);
+}
+
+.border-orange-vibrant-active:hover,
+.border-orange-vibrant-active:active {
+  border-color: var(--orange-vibrant);
+}
+
+.border-purple-active:hover,
+.border-purple-active:active {
+  border-color: var(--purple);
+}
+
+.border-purple-pale-active:hover,
+.border-purple-pale-active:active {
+  border-color: var(--purple-pale);
+}
+
+.border-purple-dead-active:hover,
+.border-purple-dead-active:active {
+  border-color: var(--purple-dead);
+}
+
+.border-purple-1-active:hover,
+.border-purple-1-active:active {
+  border-color: var(--purple-shade-1);
+}
+
+.border-purple-2-active:hover,
+.border-purple-2-active:active {
+  border-color: var(--purple-shade-2);
+}
+
+.border-red-active:hover,
+.border-red-active:active {
+  border-color: var(--red);
+}
+
+.border-red-pale-active:hover,
+.border-red-pale-active:active {
+  border-color: var(--red-pale);
+}
+
+.border-red-orange-active:hover,
+.border-red-orange-active:active {
+  border-color: var(--red-orange);
+}
+
+.border-white-active:hover,
+.border-white-active:active {
+  border-color: var(--white);
+}
+
+.border-white-pale-active:hover,
+.border-white-pale-active:active {
+  border-color: var(--white-pale);
+}
+
+.border-white-vibrant-active:hover,
+.border-white-vibrant-active:active {
+  border-color: var(--white-vibrant);
+}
+
+.border-white-1-active:hover,
+.border-white-1-active:active {
+  border-color: var(--white-shade-1);
+}

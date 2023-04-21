@@ -1,0 +1,1619 @@
+.no-animation:hover {
+  animation: none;
+}
+
+
+
+.inverse {
+  animation: inverse 2s ease-in-out;
+}
+
+.Ainverse {
+  animation-name: inverse;
+  animation-timing-function: ease-in-out
+}
+
+.inverse-reverse {
+  animation: inverse-reverse 2s ease-in-out;
+}
+
+.Ainverse-reverse {
+  animation-name: inverse-reverse;
+  animation-timing-function: ease-in-out
+}
+
+.upside-down {
+  animation: upside-down 2s ease-in-out;
+}
+
+.Aupside-down {
+  animation-name: upside-down;
+  animation-timing-function: ease-in-out
+}
+
+.upside-down-reverse {
+  animation: upside-down-reverse 2s ease-in-out;
+}
+
+.Aupside-down-reverse {
+  animation-name: upside-down-reverse;
+  animation-timing-function: ease-in-out
+}
+
+.from-right {
+  animation: from-right 2s ease-in-out;
+
+}
+
+.Afrom-right {
+  animation-name: from-right;
+  animation-timing-function: ease-in-out
+}
+
+.from-right-full {
+  animation: from-right-full 2s ease-in-out;
+
+}
+
+.Afrom-right-full {
+  animation-name: from-right-full;
+  animation-timing-function: ease-in-out
+}
+
+
+.from-right-spilling {
+  animation: from-right-splling 2s ease-in-out;
+
+}
+
+.Afrom-right-spilling {
+  animation-name: from-right-spilling;
+  animation-timing-function: ease-in-out
+}
+
+.from-right-full-potentail {
+  animation: from-right-full-potentail 2s ease-in-out;
+
+}
+
+.Afrom-right-full-potentail {
+  animation-name: from-right-full-potentail;
+  animation-timing-function: ease-in-out
+}
+
+.from-left {
+  animation: from-left 2s ease-in-out;
+
+}
+
+.Afrom-left {
+  animation-name: from-left;
+  animation-timing-function: ease-in-out
+}
+
+.from-left-full {
+  animation: from-left-full 2s ease-in-out;
+
+}
+
+.Afrom-left-full {
+  animation-name: from-left-full;
+  animation-timing-function: ease-in-out
+}
+
+
+.from-left-spilling {
+  animation: from-left-spilling 2s ease-in-out;
+
+}
+
+.Afrom-left-spilling {
+  animation-name: from-left-spilling;
+  animation-timing-function: ease-in-out
+}
+
+.from-left-full-potentail {
+  animation: from-left-full-potentail 2s ease-in-out;
+
+}
+
+.Afrom-left-full-potentail {
+  animation-name: from-left-full-potentail;
+  animation-timing-function: ease-in-out
+}
+
+.from-up {
+  animation: from-up 2s ease-in-out;
+
+}
+
+.Afrom-up {
+  animation-name: from-up;
+  animation-timing-function: ease-in-out
+}
+
+.from-up-full {
+  animation: from-up-full 2s ease-in-out;
+
+}
+
+.Afrom-up-full {
+  animation-name: from-up-full;
+  animation-timing-function: ease-in-out
+}
+
+
+.from-up-spilling {
+  animation: from-up-splling 2s ease-in-out;
+
+}
+
+.Afrom-up-spilling {
+  animation-name: from-up-spilling;
+  animation-timing-function: ease-in-out
+}
+
+.from-up-full-potentail {
+  animation: from-up-full-potentail 2s ease-in-out;
+
+}
+
+.Afrom-up-full-potentail {
+  animation-name: from-uo-full-potentail;
+  animation-timing-function: ease-in-out
+}
+
+.from-down {
+  animation: from-down 2s ease-in-out;
+
+}
+
+.Afrom-down {
+  animation-name: from-down;
+  animation-timing-function: ease-in-out
+}
+
+.from-down-full {
+  animation: from-down-full 2s ease-in-out;
+
+}
+
+.Afrom-down-full {
+  animation-name: from-down-full;
+  animation-timing-function: ease-in-out
+}
+
+
+.from-down-spilling {
+  animation: from-down-spilling 2s ease-in-out;
+
+}
+
+.Afrom-down-spilling {
+  animation-name: from-down-spilling;
+  animation-timing-function: ease-in-out
+}
+
+.from-down-full-potentail {
+  animation: from-down-full-potentail 2s ease-in-out;
+
+}
+
+.Afrom-down-full-potentail {
+  animation-name: from-down-full-potentail;
+  animation-timing-function: ease-in-out
+}
+
+.pop-left {
+  animation-name: pop-left;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+}
+
+.pop-left-big {
+  animation-name: pop-left-big;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+}
+
+.pop-right {
+  animation-name: pop-right;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+}
+
+.pop-right-big {
+  animation-name: pop-right-big;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+}
+
+.pop-both {
+  animation-name: pop-both;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+}
+
+.pop-both-big {
+  animation-name: pop-both-big;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+}
+
+.pop-both-smooth {
+  animation-name: pop-both-smooth;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+}
+
+.pop-both-big-smooth {
+  animation-name: pop-both-big-smooth;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+}
+
+.pop-both-smooth-fast {
+  animation-name: pop-both-smooth-fast;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+}
+
+.pop-both-big-fast {
+  animation-name: pop-both-big-smooth-fast;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+}
+
+.pop-both-y {
+  animation-name: pop-both-y;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+}
+
+.pop-both-big-y {
+  animation-name: pop-both-big-y;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+}
+
+.pop-both-smooth-y {
+  animation-name: pop-both-smooth-y;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+}
+
+.pop-both-big-smooth-y {
+  animation-name: pop-both-big-smooth-y;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+}
+
+.pop-both-smooth-fast-y {
+  animation-name: pop-both-smooth-fast-y;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+}
+
+.pop-both-big-fast-y {
+  animation-name: pop-both-big-smooth-fast-y;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+}
+
+.Apop-left {
+  animation-name: pop-left;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+}
+
+.Apop-left-big {
+  animation-name: pop-left-big;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+}
+
+.Apop-right {
+  animation-name: pop-right;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+}
+
+.Apop-right-big {
+  animation-name: pop-right-big;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+}
+
+.Apop-both {
+  animation-name: pop-both;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+}
+
+.Apop-both-big {
+  animation-name: pop-both-big;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+}
+
+.Apop-both-smooth {
+  animation-name: pop-both-smooth;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+}
+
+.Apop-both-big-smooth {
+  animation-name: pop-both-big-smooth;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+}
+
+.Apop-both-smooth-fast {
+  animation-name: pop-both-smooth-fast;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+}
+
+.Apop-both-big-fast {
+  animation-name: pop-both-big-fast;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+}
+
+.Apop-both-y {
+  animation-name: pop-both-y;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+}
+
+.Apop-both-big-y {
+  animation-name: pop-both-big-y;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+}
+
+.Apop-both-smooth-y {
+  animation-name: pop-both-smooth-y;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+}
+
+.Apop-both-big-smooth-y {
+  animation-name: pop-both-big-smooth-y;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+}
+
+.Apop-both-smooth-fast-y {
+  animation-name: pop-both-smooth-fast-y;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+}
+
+.Apop-both-big-fast-y {
+  animation-name: pop-both-big-smooth-fast-y;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+}
+
+.flip {
+  animation: flip 2s ease-in-out;
+}
+
+.flip-y {
+  animation: flip-y 2s ease-in-out;
+}
+
+.flip-reverse {
+  animation: flip-reverse 2s ease-in-out;
+}
+
+.flip-reverse-y {
+  animation: flip-reverse-y 2s ease-in-out;
+}
+
+
+.Aflip {
+  animation-name: flip;
+  animation-timing-function: ease-in-out
+}
+
+.Aflip-y {
+  animation-name: flip-y;
+  animation-timing-function: ease-in-out
+}
+
+.Aflip-reverse {
+  animation-name: flip-reverse;
+  animation-timing-function: ease-in-out
+}
+
+.Aflip-reverse-y {
+  animation-name: flip-reverse-y;
+  animation-timing-function: ease-in-out
+}
+
+.flip-infinite {
+  animation: flip 2s ease-in-out;
+  animation-iteration-count: infinite;
+}
+
+.flip-y-infinite {
+  animation: flip-y 2s ease-in-out;
+  animation-iteration-count: infinite;
+}
+
+.flip-reverse-infinite {
+  animation: flip-reverse 2s ease-in-out;
+  animation-iteration-count: infinite;
+}
+
+.flip-reverse-y-infinite {
+  animation: flip-reverse-y 2s ease-in-out;
+  animation-iteration-count: infinite;
+}
+
+
+.Aflip-infinite {
+  animation-name: flip;
+  animation-timing-function: ease-in-out;
+  animation-iteration-count: infinite;
+}
+
+.Aflip-y-infinite {
+  animation-name: flip-y;
+  animation-timing-function: ease-in-out;
+  animation-iteration-count: infinite;
+}
+
+.Aflip-reverse-infinite {
+  animation-name: flip-reverse;
+  animation-timing-function: ease-in-out;
+  animation-iteration-count: infinite;
+}
+
+.Aflip-reverse-y-infinite {
+  animation-name: flip-reverse-y;
+  animation-timing-function: ease-in-out;
+  animation-iteration-count: infinite;
+}
+
+.seesaw-scale {
+  animation: seesaw-scale 2s ease-in-out;
+}
+
+.Aseesaw-scale {
+  animation: seesaw-scale 2s ease-in-out;
+}
+
+.seesaw {
+  animation: seesaw 2s ease-in-out;
+}
+
+.Aseesaw {
+  animation: seesaw 2s ease-in-out;
+}
+
+.inverse-active:hover {
+  animation: inverse 2s ease-in-out;
+}
+
+.Ainverse-active:hover {
+  animation-name: inverse;
+  animation-timing-function: ease-in-out
+}
+
+.inverse-reverse-active:hover {
+  animation: inverse-reverse 2s ease-in-out;
+}
+
+.Ainverse-reverse-active:hover {
+  animation-name: inverse-reverse;
+  animation-timing-function: ease-in-out
+}
+
+.upside-down-active:hover {
+  animation: upside-down 2s ease-in-out;
+}
+
+.Aupside-down-active:hover {
+  animation-name: upside-down;
+  animation-timing-function: ease-in-out
+}
+
+.upside-down-reverse-active:hover {
+  animation: upside-down-reverse 2s ease-in-out;
+}
+
+.Aupside-down-reverse-active:hover {
+  animation-name: upside-down-reverse;
+  animation-timing-function: ease-in-out
+}
+
+.from-right-active:hover {
+  animation: from-right 2s ease-in-out;
+
+}
+
+.Afrom-right-active:hover {
+  animation-name: from-right;
+  animation-timing-function: ease-in-out
+}
+
+.from-right-full-active:hover {
+  animation: from-right-full 2s ease-in-out;
+
+}
+
+.Afrom-right-full-active:hover {
+  animation-name: from-right-full;
+  animation-timing-function: ease-in-out
+}
+
+
+.from-right-spilling-active:hover {
+  animation: from-right-splling 2s ease-in-out;
+
+}
+
+.Afrom-right-spilling-active:hover {
+  animation-name: from-right-spilling;
+  animation-timing-function: ease-in-out
+}
+
+.from-right-full-potentail-active:hover {
+  animation: from-right-full-potentail 2s ease-in-out;
+
+}
+
+.Afrom-right-full-potentail-active:hover {
+  animation-name: from-right-full-potentail;
+  animation-timing-function: ease-in-out
+}
+
+.from-left-active:hover {
+  animation: from-left 2s ease-in-out;
+
+}
+
+.Afrom-left-active:hover {
+  animation-name: from-left;
+  animation-timing-function: ease-in-out
+}
+
+.from-left-full-active:hover {
+  animation: from-left-full 2s ease-in-out;
+
+}
+
+.Afrom-left-full-active:hover {
+  animation-name: from-left-full;
+  animation-timing-function: ease-in-out
+}
+
+
+.from-left-spilling-active:hover {
+  animation: from-left-spilling 2s ease-in-out;
+
+}
+
+.Afrom-left-spilling-active:hover {
+  animation-name: from-left-spilling;
+  animation-timing-function: ease-in-out
+}
+
+.from-left-full-potentail-active:hover {
+  animation: from-left-full-potentail 2s ease-in-out;
+
+}
+
+.Afrom-left-full-potentail-active:hover {
+  animation-name: from-left-full-potentail;
+  animation-timing-function: ease-in-out
+}
+
+.from-up-active:hover {
+  animation: from-up 2s ease-in-out;
+
+}
+
+.Afrom-up-active:hover {
+  animation-name: from-up;
+  animation-timing-function: ease-in-out
+}
+
+.from-up-full-active:hover {
+  animation: from-up-full 2s ease-in-out;
+
+}
+
+.Afrom-up-full-active:hover {
+  animation-name: from-up-full;
+  animation-timing-function: ease-in-out
+}
+
+
+.from-up-spilling-active:hover {
+  animation: from-up-splling 2s ease-in-out;
+
+}
+
+.Afrom-up-spilling-active:hover {
+  animation-name: from-up-spilling;
+  animation-timing-function: ease-in-out
+}
+
+.from-up-full-potentail-active:hover {
+  animation: from-up-full-potentail 2s ease-in-out;
+
+}
+
+.Afrom-up-full-potentail-active:hover {
+  animation-name: from-uo-full-potentail;
+  animation-timing-function: ease-in-out
+}
+
+.from-down-active:hover {
+  animation: from-down 2s ease-in-out;
+
+}
+
+.Afrom-down-active:hover {
+  animation-name: from-down;
+  animation-timing-function: ease-in-out
+}
+
+.from-down-full-active:hover {
+  animation: from-down-full 2s ease-in-out;
+
+}
+
+.Afrom-down-full-active:hover {
+  animation-name: from-down-full;
+  animation-timing-function: ease-in-out
+}
+
+
+.from-down-spilling-active:hover {
+  animation: from-down-spilling 2s ease-in-out;
+
+}
+
+.Afrom-down-spilling-active:hover {
+  animation-name: from-down-spilling;
+  animation-timing-function: ease-in-out
+}
+
+.from-down-full-potentail-active:hover {
+  animation: from-down-full-potentail 2s ease-in-out;
+
+}
+
+.Afrom-down-full-potentail-active:hover {
+  animation-name: from-down-full-potentail;
+  animation-timing-function: ease-in-out
+}
+
+.pop-left-active:hover {
+  animation-name: pop-left;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+}
+
+.pop-left-big-active:hover {
+  animation-name: pop-left-big;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+}
+
+.pop-right-active:hover {
+  animation-name: pop-right;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+}
+
+.pop-right-big-active:hover {
+  animation-name: pop-right-big;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+}
+
+.pop-both-active:hover {
+  animation-name: pop-both;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+}
+
+.pop-both-big-active:hover {
+  animation-name: pop-both-big;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+}
+
+.pop-both-smooth-active:hover {
+  animation-name: pop-both-smooth;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+}
+
+.pop-both-big-smooth-active:hover {
+  animation-name: pop-both-big-smooth;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+}
+
+.pop-both-smooth-fast-active:hover {
+  animation-name: pop-both-smooth-fast;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+}
+
+.pop-both-big-fast-active:hover {
+  animation-name: pop-both-big-smooth-fast;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+}
+
+.pop-both-y-active:hover {
+  animation-name: pop-both-y;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+}
+
+.pop-both-big-y-active:hover {
+  animation-name: pop-both-big-y;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+}
+
+.pop-both-smooth-y-active:hover {
+  animation-name: pop-both-smooth-y;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+}
+
+.pop-both-big-smooth-y-active:hover {
+  animation-name: pop-both-big-smooth-y;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+}
+
+.pop-both-smooth-fast-y-active:hover {
+  animation-name: pop-both-smooth-fast-y;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+}
+
+.pop-both-big-fast-y-active:hover {
+  animation-name: pop-both-big-smooth-fast-y;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+}
+
+.Apop-left-active:hover {
+  animation-name: pop-left;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+}
+
+.Apop-left-big-active:hover {
+  animation-name: pop-left-big;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+}
+
+.Apop-right-active:hover {
+  animation-name: pop-right;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+}
+
+.Apop-right-big-active:hover {
+  animation-name: pop-right-big;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+}
+
+.Apop-both-active:hover {
+  animation-name: pop-both;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+}
+
+.Apop-both-big-active:hover {
+  animation-name: pop-both-big;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+}
+
+.Apop-both-smooth-active:hover {
+  animation-name: pop-both-smooth;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+}
+
+.Apop-both-big-smooth-active:hover {
+  animation-name: pop-both-big-smooth;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+}
+
+.Apop-both-smooth-fast-active:hover {
+  animation-name: pop-both-smooth-fast;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+}
+
+.Apop-both-big-fast-active:hover {
+  animation-name: pop-both-big-fast;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+}
+
+.Apop-both-y-active:hover {
+  animation-name: pop-both-y;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+}
+
+.Apop-both-big-y-active:hover {
+  animation-name: pop-both-big-y;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+}
+
+.Apop-both-smooth-y-active:hover {
+  animation-name: pop-both-smooth-y;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+}
+
+.Apop-both-big-smooth-y-active:hover {
+  animation-name: pop-both-big-smooth-y;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+}
+
+.Apop-both-smooth-fast-y-active:hover {
+  animation-name: pop-both-smooth-fast-y;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+}
+
+.Apop-both-big-fast-y-active:hover {
+  animation-name: pop-both-big-smooth-fast-y;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+}
+
+.flip-active:hover {
+  animation: flip 2s ease-in-out;
+}
+
+.flip-y-active:hover {
+  animation: flip-y 2s ease-in-out;
+}
+
+.flip-reverse-active:hover {
+  animation: flip-reverse 2s ease-in-out;
+}
+
+.flip-reverse-y-active:hover {
+  animation: flip-reverse-y 2s ease-in-out;
+}
+
+
+.Aflip-active:hover {
+  animation-name: flip;
+  animation-timing-function: ease-in-out
+}
+
+.Aflip-y-active:hover {
+  animation-name: flip-y;
+  animation-timing-function: ease-in-out
+}
+
+.Aflip-reverse-active:hover {
+  animation-name: flip-reverse;
+  animation-timing-function: ease-in-out
+}
+
+.Aflip-reverse-y-active:hover {
+  animation-name: flip-reverse-y;
+  animation-timing-function: ease-in-out
+}
+
+.flip-infinite-active:hover {
+  animation: flip 2s ease-in-out;
+  animation-iteration-count: infinite;
+}
+
+.flip-y-infinite-active:hover {
+  animation: flip-y 2s ease-in-out;
+  animation-iteration-count: infinite;
+}
+
+.flip-reverse-infinite-active:hover {
+  animation: flip-reverse 2s ease-in-out;
+  animation-iteration-count: infinite;
+}
+
+.flip-reverse-y-infinite-active:hover {
+  animation: flip-reverse-y 2s ease-in-out;
+  animation-iteration-count: infinite;
+}
+
+
+.Aflip-infinite-active:hover {
+  animation-name: flip;
+  animation-timing-function: ease-in-out;
+  animation-iteration-count: infinite;
+}
+
+.Aflip-y-infinite-active:hover {
+  animation-name: flip-y;
+  animation-timing-function: ease-in-out;
+  animation-iteration-count: infinite;
+}
+
+.Aflip-reverse-infinite-active:hover {
+  animation-name: flip-reverse;
+  animation-timing-function: ease-in-out;
+  animation-iteration-count: infinite;
+}
+
+.Aflip-reverse-y-infinite-active:hover {
+  animation-name: flip-reverse-y;
+  animation-timing-function: ease-in-out;
+  animation-iteration-count: infinite;
+}
+
+.seesaw-scale-active:hover {
+  animation: seesaw-scale 2s ease-in-out;
+}
+
+.Aseesaw-scale-active:hover {
+  animation: seesaw-scale 2s ease-in-out;
+}
+
+.seesaw-active:hover {
+  animation: seesaw 2s ease-in-out;
+}
+
+.Aseesaw-active:hover {
+  animation: seesaw 2s ease-in-out;
+}
+
+
+.s1 {
+  animation-duration: 1;
+}
+
+.s2 {
+  animation-duration: 2;
+}
+
+.s3 {
+  animation-duration: 3;
+}
+
+.s4 {
+  animation-duration: 4;
+}
+
+.s5 {
+  animation-duration: 5;
+}
+
+.s6 {
+  animation-duration: 6;
+}
+
+.s7 {
+  animation-duration: 7;
+}
+
+.s8 {
+  animation-duration: 8;
+}
+
+.s9 {
+  animation-duration: 9;
+}
+
+.s10 {
+  animation-duration: 10;
+}
+
+.sp5 {
+  animation-duration: 0.5;
+}
+
+.s1p {
+  animation-duration: 1.5;
+}
+
+.s2p {
+  animation-duration: 2.5;
+}
+
+.s3p {
+  animation-duration: 3.5;
+}
+
+.s4p {
+  animation-duration: 4.5;
+}
+
+.s5p {
+  animation-duration: 5.5;
+}
+
+.s6p {
+  animation-duration: 6.5;
+}
+
+.s7p {
+  animation-duration: 7.5;
+}
+
+.s8p {
+  animation-duration: 8.5;
+}
+
+.s9p {
+  animation-duration: 9.5;
+}
+
+.s10p {
+  animation-duration: 10.5;
+}
+
+@keyframes from-left {
+  from {
+    transform: translateX(-50%);
+  }
+
+  to {
+    transform: rotate(0deg);
+  }
+}
+
+@keyframes from-right {
+  from {
+    transform: translateX(50%);
+  }
+
+  to {
+    transform: rotate(0deg);
+  }
+}
+
+@keyframes from-left-full {
+  from {
+    transform: translateX(-100%);
+  }
+
+  to {
+    transform: rotate(0deg);
+  }
+}
+
+@keyframes from-right-full {
+  from {
+    transform: translateX(100%);
+  }
+
+  to {
+    transform: rotate(0deg);
+  }
+}
+
+@keyframes from-left-spilling {
+  from {
+    transform: translateX(-150%);
+  }
+
+  to {
+    transform: rotate(0deg);
+  }
+}
+
+@keyframes from-right-spilling {
+  from {
+    transform: translateX(150%);
+  }
+
+  to {
+    transform: rotate(0deg);
+  }
+}
+
+@keyframes from-left-full-potential {
+  from {
+    transform: translateX(-100vw);
+  }
+
+  to {
+    transform: rotate(0deg);
+  }
+}
+
+@keyframes from-right-full-potential {
+  from {
+    transform: translateX(100vw);
+  }
+
+  to {
+    transform: rotate(0deg);
+  }
+}
+
+@keyframes from-up {
+  from {
+    transform: translateY(-50%);
+  }
+
+  to {
+    transform: rotate(0deg);
+  }
+}
+
+@keyframes from-down {
+  from {
+    transform: translateY(50%);
+  }
+
+  to {
+    transform: rotate(0deg);
+  }
+}
+
+@keyframes from-up-full {
+  from {
+    transform: translateY(-100%);
+  }
+
+  to {
+    transform: rotate(0deg);
+  }
+}
+
+@keyframes from-down-full {
+  from {
+    transform: translateY(100%);
+  }
+
+  to {
+    transform: rotate(0deg);
+  }
+}
+
+@keyframes from-up-spilling {
+  from {
+    transform: translateY(-150%);
+  }
+
+  to {
+    transform: rotate(0deg);
+  }
+}
+
+@keyframes from-down-spilling {
+  from {
+    transform: translateY(150%);
+  }
+
+  to {
+    transform: rotate(0deg);
+  }
+}
+
+@keyframes from-up-full-potential {
+  from {
+    transform: translateY(-100vh);
+  }
+
+  to {
+    transform: rotate(0deg);
+  }
+}
+
+@keyframes from-down-full-potential {
+  from {
+    transform: translateY(100vh);
+  }
+
+  to {
+    transform: rotate(0deg);
+  }
+}
+
+@keyframes upside-down-reverse {
+  from {
+    transform: rotateX(-180deg);
+  }
+
+  to {
+    transform: rotate(0deg);
+  }
+}
+
+@keyframes upside-down {
+  from {
+    transform: rotateX(180deg);
+  }
+
+  to {
+    transform: rotate(0deg);
+  }
+}
+
+@keyframes inverse {
+  from {
+    transform: rotateY(180deg);
+  }
+
+  to {
+    transform: rotate(0deg);
+  }
+}
+
+@keyframes inverse-reverse {
+  from {
+    transform: rotateY(-180deg);
+  }
+
+  to {
+    transform: rotate(0deg);
+  }
+}
+
+@keyframes pop-left {
+  from {
+    transform: translateX(0);
+  }
+
+  to {
+    transform: translateX(-5%);
+  }
+}
+
+@keyframes pop-left-big {
+  from {
+    transform: translateX(0);
+  }
+
+  to {
+    transform: translateX(-10%);
+  }
+}
+
+@keyframes pop-right {
+  from {
+    transform: translateX(0);
+  }
+
+  to {
+    transform: translateX(5%);
+  }
+}
+
+@keyframes pop-right-big {
+  from {
+    transform: translateX(0);
+  }
+
+  to {
+    transform: translateX(10%);
+  }
+}
+
+@keyframes pop-both {
+  0% {
+    transform: translateX(0);
+  }
+
+  25% {
+    transform: translateX(5%);
+  }
+
+  50% {
+    transform: translateX(0);
+  }
+
+  75% {
+    transform: translateX(-5%);
+  }
+}
+
+@keyframes pop-both-big {
+  0% {
+    transform: translateX(0);
+  }
+
+  25% {
+    transform: translateX(10%);
+  }
+
+  50% {
+    transform: translateX(0);
+  }
+
+  75% {
+    transform: translateX(-10%);
+  }
+}
+
+
+@keyframes pop-both-big-smooth {
+  0% {
+    transform: translateX(-10%);
+  }
+
+  50% {
+    transform: translateX(+10%);
+  }
+
+  100% {
+    transform: translateX(-10%);
+  }
+
+}
+
+
+@keyframes pop-both-big-smooth-fast {
+  0% {
+    transform: translateX(-10%);
+  }
+
+  25% {
+    transform: translateX(+10%);
+  }
+
+  50% {
+    transform: translateX(-10%);
+  }
+
+  75% {
+    transform: translateX(+10%);
+  }
+
+  100% {
+    transform: translateX(-10%);
+  }
+
+}
+
+@keyframes pop-both-smooth {
+  0% {
+    transform: translateX(-5%);
+  }
+
+  50% {
+    transform: translateX(+5%);
+  }
+
+  100% {
+    transform: translateX(-5%);
+  }
+
+}
+
+
+@keyframes pop-both-smooth-fast {
+  0% {
+    transform: translateX(-5%);
+  }
+
+  25% {
+    transform: translateX(+5%);
+  }
+
+  50% {
+    transform: translateX(-5%);
+  }
+
+  75% {
+    transform: translateX(+5%);
+  }
+
+  100% {
+    transform: translateX(-5%);
+  }
+
+}
+
+@keyframes pop-both-y {
+  0% {
+    transform: translateY(0);
+  }
+
+  25% {
+    transform: translateY(10%);
+  }
+
+  50% {
+    transform: translateY(0);
+  }
+
+  75% {
+    transform: translateY(-10%);
+  }
+}
+
+@keyframes pop-both-big-y {
+  0% {
+    transform: translateY(0);
+  }
+
+  25% {
+    transform: translateY(20%);
+  }
+
+  50% {
+    transform: translateY(0);
+  }
+
+  75% {
+    transform: translateY(-20%);
+  }
+}
+
+
+@keyframes pop-both-big-smooth-y {
+  0% {
+    transform: translateY(-20%);
+  }
+
+  50% {
+    transform: translateY(+20%);
+  }
+
+  100% {
+    transform: translateY(-20%);
+  }
+
+}
+
+
+@keyframes pop-both-big-smooth-fast-y {
+  0% {
+    transform: translateY(-20%);
+  }
+
+  25% {
+    transform: translateY(+20%);
+  }
+
+  50% {
+    transform: translateY(-20%);
+  }
+
+  75% {
+    transform: translateY(+20%);
+  }
+
+  100% {
+    transform: translateY(-20%);
+  }
+
+}
+
+@keyframes pop-both-smooth-y {
+  0% {
+    transform: translateY(-10%);
+  }
+
+  50% {
+    transform: translateY(+10%);
+  }
+
+  100% {
+    transform: translateY(-10%);
+  }
+
+}
+
+
+@keyframes pop-both-smooth-fast-y {
+  0% {
+    transform: translateY(-10%);
+  }
+
+  25% {
+    transform: translateY(+10%);
+  }
+
+  50% {
+    transform: translateY(-10%);
+  }
+
+  75% {
+    transform: translateY(+10%);
+  }
+
+  100% {
+    transform: translateY(-10%);
+  }
+
+}
+
+
+@keyframes flip {
+  from {
+    transform: rotateY(360deg);
+  }
+
+  to {
+    transform: rotateY(0);
+  }
+}
+
+@keyframes flip-reverse {
+  from {
+    transform: rotateY(-360deg);
+  }
+
+  to {
+    transform: rotateY(0);
+  }
+}
+
+@keyframes flip-y {
+  from {
+    transform: rotateX(360deg);
+  }
+
+  to {
+    transform: rotateY(0);
+  }
+}
+
+@keyframes flip-reverse-y {
+  from {
+    transform: rotateX(-360deg);
+  }
+
+  to {
+    transform: rotateY(0);
+  }
+}
+
+@keyframes seesaw {
+  0% {
+    transform: rotate(0deg);
+  }
+
+  25% {
+    transform: rotate(10deg);
+  }
+
+  50% {
+    transform: rotate(-10deg);
+  }
+
+  100% {
+    transform: rotate(0deg);
+  }
+
+}
+
+@keyframes seesaw-scale {
+  0% {
+    transform: scale(1) rotate(0deg);
+  }
+
+  25% {
+    transform: scale(1.2) rotate(10deg);
+  }
+
+  50% {
+    transform: scale(1.2) rotate(-10deg);
+  }
+
+  100% {
+    transform: scale(1) rotate(0deg);
+  }
+
+}

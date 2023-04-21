@@ -1,0 +1,94 @@
+body {
+  background-image: url('giphy.gif');
+  background-size: cover;
+  background-repeat: no-repeat;
+  font-family: 'Roboto', sans-serif;
+  list-style-type: none;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  max-width: 100%;
+  clip-path: inset(0);
+}
+
+.animation-4 {
+  animation: animation-4 2s ease-in-out;
+}
+
+@keyframes animation-4 {
+
+
+  0% {
+    transform: rotateZ(90deg) translateX(50%) translateY(-45vw) rotateZ(-2deg);
+  }
+
+  25% {
+    transform: rotateZ(90deg) translateX(50%)translateY(-45vw);
+  }
+
+  50% {
+    transform: translateX(50%) translateY(50%) rotateZ(+30deg);
+  }
+
+  100% {
+    transform: translate(0) rotate(0);
+  }
+
+}
+
+
+
+.animation-1 {
+  animation: animation-1 2s ease-in-out;
+}
+
+@keyframes animation-1 {
+  0% {
+    transform: translateX(-85%) translateY(-95%) rotateZ(+60deg);
+  }
+
+  50% {
+    transform: translateX(-50%) translateY(+240%) rotateZ(-60deg);
+  }
+
+  75% {
+    transform: translateX(-30%);
+  }
+
+  100% {
+    transform: translateX(0);
+  }
+}
+
+.animation-2 {
+  animation: animation-2 2s ease-in-out;
+}
+
+@keyframes animation-2 {
+  0% {
+    transform: translateX(+85%) translateY(+95%) rotateZ(-60deg);
+  }
+
+  50% {
+    transform: translateX(+50%) translateY(+240%) rotateZ(+60deg);
+  }
+
+  75% {
+    transform: translateX(30%);
+  }
+
+  100% {
+    transform: translateX(0);
+  }
+}
+
+
+.animation-3 {
+  animation: animation-3 2s ease-in-out;
+}
+
+@keyframes animation-3 {
+  from {
+    transform: rotateZ(-50deg) translateY(200%) translateX(-20%) rotateY(-190deg)
+  }
+}
