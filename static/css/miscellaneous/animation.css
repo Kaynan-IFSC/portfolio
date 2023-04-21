@@ -2,8 +2,6 @@
   animation: none;
 }
 
-
-
 .inverse {
   animation: inverse 2s ease-in-out;
 }
@@ -984,6 +982,9 @@
   animation: seesaw 2s ease-in-out;
 }
 
+.infinite {
+  animation-iteration-count: infinite;
+}
 
 .s1 {
   animation-duration: 1;
