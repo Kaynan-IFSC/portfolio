@@ -58,7 +58,7 @@ a.button-xs {
   display: inline-block;
   min-height: 15px;
   line-height: 15px;
-  /* Add this line */
+
   text-align: center;
 }
 
@@ -68,7 +68,7 @@ a.button-s {
   display: inline-block;
   min-height: 30px;
   line-height: 30px;
-  /* Add this line */
+
   text-align: center;
 }
 
@@ -87,7 +87,7 @@ a.button-l {
   display: inline-block;
   height: 60px;
   line-height: 60px;
-  /* Add this line */
+
 }
 
 a.button-xl {
@@ -96,7 +96,7 @@ a.button-xl {
   display: inline-block;
   min-height: 75px;
   line-height: 75px;
-  /* Add this line */
+
   text-align: center;
 }
 
@@ -106,7 +106,7 @@ a.button-xxl {
   display: inline-block;
   min-height: 90px;
   line-height: 90px;
-  /* Add this line */
+
   text-align: center;
 }
 
@@ -116,7 +116,7 @@ a.button-xxxl {
   display: inline-block;
   min-height: 105px;
   line-height: 105px;
-  /* Add this line */
+
   text-align: center;
 }
 
@@ -126,7 +126,7 @@ a.button-mega {
   display: inline-block;
   min-height: 120px;
   line-height: 120px;
-  /* Add this line */
+
   text-align: center;
 }
 
@@ -137,7 +137,7 @@ a.button-megazord {
   display: inline-block;
   min-height: 135px;
   line-height: 135px;
-  /* Add this line */
+
   text-align: center;
 }
 
@@ -148,7 +148,7 @@ button.button-xs {
   display: inline-block;
   min-height: 15px;
   line-height: 15px;
-  /* Add this line */
+
   text-align: center;
 }
 
@@ -158,7 +158,7 @@ button.button-s {
   display: inline-block;
   min-height: 30px;
   line-height: 30px;
-  /* Add this line */
+
   text-align: center;
 }
 
@@ -168,7 +168,7 @@ button.button-m {
   display: inline-block;
   min-height: 45px;
   line-height: 45px;
-  /* Add this line */
+
   text-align: center;
 }
 
@@ -178,7 +178,7 @@ button.button-l {
   display: inline-block;
   height: 60px;
   line-height: 60px;
-  /* Add this line */
+
 }
 
 button.button-xl {
@@ -187,7 +187,7 @@ button.button-xl {
   display: inline-block;
   min-height: 75px;
   line-height: 75px;
-  /* Add this line */
+
   text-align: center;
 }
 
@@ -197,7 +197,7 @@ button.button-xxl {
   display: inline-block;
   min-height: 90px;
   line-height: 90px;
-  /* Add this line */
+
   text-align: center;
 }
 
@@ -207,7 +207,7 @@ button.button-xxxl {
   display: inline-block;
   min-height: 105px;
   line-height: 105px;
-  /* Add this line */
+
   text-align: center;
 }
 
@@ -217,7 +217,7 @@ button.button-mega {
   display: inline-block;
   min-height: 120px;
   line-height: 120px;
-  /* Add this line */
+
   text-align: center;
 }
 
@@ -228,12 +228,6 @@ button.button-megazord {
   display: inline-block;
   min-height: 135px;
   line-height: 135px;
-  /* Add this line */
+
   text-align: center;
-}
-
-.button-separator {
-  display: grid;
-  grid-template-rows: 96.5% 20%;
-
 }

@@ -11,6 +11,8 @@ body {
   clip-path: inset(0);
 }
 
+
+
 .animation-4 {
   animation: animation-4 2s ease-in-out;
 }
